@@ -159,7 +159,7 @@ section{
   line-height: 1;
   text-align: center;
 }
-banner-text > div:last-child{
+.banner-text > div:last-child{
   font-size: 16px;
   font-weight: 400;
   margin-top: 5px;
@@ -177,7 +177,7 @@ banner-text > div:last-child{
    text-transform: uppercase;
    text-align: center;
 }
-.category-txt > div{
+.category-text > div{
   font-size: 16PX;
   font-weight: 200;
   color: #faa541;
